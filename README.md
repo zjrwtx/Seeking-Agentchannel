@@ -1,2 +1,2 @@
 # Seeking-Agentchannel
-a agentchannel that connect IM、embodiment and digital desktop agents
+An agent channel that connects IM, embodiment, and digital desktop agents.
